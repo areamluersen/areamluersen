@@ -3,13 +3,13 @@
 ## I'm Aream Luersen!
 
  
-:computer: I'm Full Stack Developer!
+:computer: Full Stack Developer!
 
-:house_with_garden: I’m from Santa Catarina - Brazil.
+:house_with_garden: From Santa Catarina - Brazil.
 
-🔭 I’m currently working in a Geoprocessing Company.
+🔭 Currently I work in a Geoprocessing company with web programming, backend and integrations using restfull and SOAP APIs.
  
-🏫 Finishing my bachelor's degree in computer science!
+🏫 Bachelor's degree in computer science!
 
 ## About me
 
