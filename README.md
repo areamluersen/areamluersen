@@ -46,13 +46,13 @@ Full Stack Developer!
 
 ## Github Status
 
-<div align="center" style="display: inline_block">
+
   <a href="https://github.com/areamluersen">
   <img align="center" height="180em" src="https://github-readme-stats-aream.vercel.app/api?username=areamluersen&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-</div>
+</a>
   
-<div align="center" style="display: inline_block"><br/>
+<a href="https://github.com/areamluersen?tab=repositories">
   <img align="center" height="180em" src="https://github-readme-stats-aream.vercel.app/api/top-langs/?username=areamluersen&layout=compact&langs_count=7&theme=dark&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-</div>
+</a>
 
 ##
