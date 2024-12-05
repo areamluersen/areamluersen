@@ -1,16 +1,28 @@
-Hi 👋 My name is Aream
-======================
+## Hi, I'm Aream 👋
 
-Full Stack Developer!
----------------------
+#### Full Stack Developer with a Passion for Geotechnology
+🌍 Location: São José, Santa Catarina, Brazil
 
-🔭 Currently I work in a Geoprocessing company with web programming, backend and integrations using restfull and SOAP APIs.
+🚀 Current Role: Developer at Geomais Geotecnologia Ltda.
 
-* 🌍  I'm based in São José - Santa Catarina - Brazil
-* 🚀  I'm currently working on [Geomais Geotecnologia ltda.](http://www.geomais.com.br/)
-* 🤝  I'm open to collaborating on Intersting Project
-* 🏫 Bachelor's degree in computer science!
-* ⚡  I like playing the guitar 
+🎓 Education: Bachelor's in Computer Science
+
+📅 Experience: Over 7 in software development
+
+#### About Me
+With over 13 years of professional experience and 7 in software development, I specialize in web development, backend solutions, and API integrations using RESTful and SOAP protocols. 
+My expertise extends beyond technical skills to include business process analysis, geospatial data management, and creating tailored solutions that drive business growth.
+
+Currently, I apply my skills to advance geoprocessing projects, collaborating closely with stakeholders to deliver innovative and efficient solutions.
+
+#### Collaboration & Interests
+💡 Open to collaborating on innovative and challenging projects.
+
+🧠 Strong understanding of business processes and the ability to bridge the gap between technical and non-technical stakeholders.
+
+🎸 Outside of work, I enjoy unwinding with my guitar.
+
+Feel free to connect and explore opportunities together!
 
 ### Skills
 
